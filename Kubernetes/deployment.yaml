@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: social-media-app
-        image: social_media_app:latest
+        image: bhandariajay006:latest
         ports:
         - containerPort: 3000
         env:
